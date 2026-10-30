@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> Repo archiviata: il contenuto, con tutta la history, ora vive in **[giofornari/School](https://github.com/giofornari/School)**.
+
 # JavaScript Playground 🎡🎈
 
 ![JS](https://img.shields.io/badge/Magic%20with-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
